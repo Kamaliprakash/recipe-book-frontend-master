@@ -6,5 +6,8 @@ body,
 .app {
   font-family: "Rubik", sans-serif;
   margin: 0;
-  background-color: #0A0A0A;
+  background-color: rgb(255, 0, 255);
 }
+
+
+/*   background-color:#0A0A0A;*/
